@@ -1,0 +1,4 @@
+#persistent
+#InstallKeybdHook
+#InstallMouseHook
+KeyHistory
